@@ -5,6 +5,8 @@ This portfolio is to track and share what I've learned through projects and cour
 
 Brief career tour: I rocked full-stack and data-centric software engineering for over 13 years using many languages then at the senior level shifted focus into team leadership and project management, then decided to shift back to being hands on to build more great software.  At that point Python became my clear language of choice and my journey into machine learning began.
 
+Ping me on [LinkedIn](https://www.linkedin.com/in/tylerbittner/) if you'd like to know more!
+
 # Contents
 1. [Why](#why)
 1. [Data Engineering: Preparation & Cleaning](#data-engineering-preparation--cleaning)
@@ -12,8 +14,8 @@ Brief career tour: I rocked full-stack and data-centric software engineering for
 1. [Data Visualization](#data-visualization)
 1. [Machine Learning: Modeling & Algorithms](#machine-learning-modeling--algorithms)
 1. [Statistics & Probability](#statistics--probability)
-1. [Contact Me](#contact-me)
 
+<!-- Idea: add future projects/directions... -->
 <!--  *(Put items within table including: title, description, data set, techs & algos used)* -->
 
 # Data Engineering: Preparation & Cleaning
@@ -76,9 +78,6 @@ Brief career tour: I rocked full-stack and data-centric software engineering for
 - Outco
     - TODO: make homeworks etc. public
 -->
-
-# Contact Me
-[LinkedIn](https://www.linkedin.com/in/tylerbittner/)
 
 
 [comment]: <> (# WORTHY CONTENT DUMP)
