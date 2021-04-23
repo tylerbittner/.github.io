@@ -3,3 +3,6 @@ description: Data Engineering & <br/>Machine Learning Portfolio
 title: J. Tyler Bittner
 image: /images/tylerbittner.github.io-Social_preview.png
 author: J. Tyler Bittner
+plugins_dir: [plugins]
+plugins:
+  - jekyll-seo-tag
