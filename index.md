@@ -5,7 +5,7 @@ This portfolio is to track and share what I've learned through projects and cour
 
 Brief career tour: I rocked full-stack and data-centric software engineering for over 13 years using many languages then at the senior level shifted focus into team leadership and project management, then decided to shift back to being hands on to build more great software.  At that point Python became my clear language of choice and my journey into machine learning began.
 
-Ping me on [LinkedIn](https://www.linkedin.com/in/tylerbittner/) if you'd like to know more!
+**Ping me on [LinkedIn](https://www.linkedin.com/in/tylerbittner/) if you'd like to know more!**
 
 # Contents
 1. [Why](#why)
