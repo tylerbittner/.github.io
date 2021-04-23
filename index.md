@@ -3,16 +3,16 @@
 # Why
 This portfolio is to track and share what I've learned through projects and courses I've taken in my journey to level-up my nerd skills.  It includes links to Juypter Notebooks, code from tutorials & workshops, book notes, and algorithm coding exercises.
 
-Brief career tour: I did full-stack and data-centric software engineering for over 13 years using Perl, Java, Javascript, and C#, then at the senior level shifted focus into team leadership and project management, then decided to shift back to being hands on and build great software!  At that point Python became my clear language of choice and my journey into machine learning began.
+Brief career tour: I rocked full-stack and data-centric software engineering for over 13 years using many languages then at the senior level shifted focus into team leadership and project management, then decided to shift back to being hands on to build more great software.  At that point Python became my clear language of choice and my journey into machine learning began.
 
 # Contents
 1. [Why](#why)
 1. [Data Engineering: Preparation & Cleaning](#data-engineering-preparation--cleaning)
 1. [Exploratory Data Analysis](#exploratory-data-analysis)
-1. [Data Visualization](#Data-Visualization)
+1. [Data Visualization](#data-visualization)
 1. [Machine Learning: Modeling & Algorithms](#machine-learning-modeling--algorithms)
-1. [Statistics and Probability](#Statistics-and-Probability)
-1. [Contact Tyler](#contact-tyler)
+1. [Statistics & Probability](#statistics--probability)
+1. [Contact Me](#contact-me)
 
 <!--  *(Put items within table including: title, description, data set, techs & algos used)* -->
 
@@ -28,7 +28,7 @@ Brief career tour: I did full-stack and data-centric software engineering for ov
 - [Cleaning and exploration of HCCI’s 2016 Health Care Cost and Utilization Report](https://github.com/tylerbittner/datascience-bootcamp/blob/master/week-5/Exercise%20Part%201%20-%20EDA%20and%20Data%20Cleaning.ipynb)
   - Data Set: [HCCI’s 2016 Health Care Cost and Utilization Report](https://www.healthcostinstitute.org/data)
   <!-- - TODO: Summarize more; what I did in the notebook -->
-- [Course notes: "Elements of Data Science Part 2 - EDA" (AWS Training and Certification)](./AWS%20Machine%20Learning%20Specialty%20Path/Elements%20of%20DS%20-%20Part%202%20-%20EDA.ipynb)
+- [Course notes: "Elements of Data Science Part 2 - EDA" (AWS Training and Certification)](https://github.com/tylerbittner/learning/blob/master/AWS%20Machine%20Learning%20Specialty%20Path/Elements%20of%20DS%20-%20Part%202%20-%20EDA.ipynb)
 <!-- Add rest of courses here? -->
 
 # Data Visualization
@@ -40,7 +40,7 @@ Brief career tour: I did full-stack and data-centric software engineering for ov
   <!-- - TODO: Topics: --> 
 
 # Machine Learning: Modeling & Algorithms
-- [Supervised learning: Gradient Boosting Machines demo with XGBoost](GBM_workshop/readme.md) (Feb 2020)
+- [Supervised learning: Gradient Boosting Machines demo with XGBoost](https://github.com/tylerbittner/learning/blob/master/GBM_workshop/readme.md) (Feb 2020)
   - Technologies: pandas, scikit-learn, scipy, xgboost, matplotlib
   - Data set: [Airline On-Time Statistics and Delay Causes from Bureau of Transportation Statistics (BTS)](http://stat-computing.org/dataexpo/2009/the-data.html)  <!--  - TODO: Summarize results/purpose -->
 - [Course notes: "Supervised Learning with scikit-learn" (Datacamp)](https://github.com/tylerbittner/datascience-bootcamp/blob/master/week-8/Notes%20-%20Week%208%20-%20Supervised%20Learning.ipynb)
@@ -61,7 +61,7 @@ Brief career tour: I did full-stack and data-centric software engineering for ov
 - Example: GBM workshop model.  Try serving it on S3/serverless very cheaply.
 -->
 
-# Statistics and Probability
+# Statistics & Probability
 - ["Statistics and Probability" course notes (Khan Academy)](https://github.com/tylerbittner/datascience-bootcamp/blob/master/week-2/Notes%20-%20Week%202%20-%20Statistics%20and%20Probability.ipynb)
 - ["Statistical Thinking in Python" course notes (Datacamp)](https://github.com/tylerbittner/datascience-bootcamp/blob/master/week-6/Notes%20-%20Week%206%20-%20Statistical%20Thinking%20in%20Python.ipynb)
 
@@ -77,7 +77,7 @@ Brief career tour: I did full-stack and data-centric software engineering for ov
     - TODO: make homeworks etc. public
 -->
 
-# Contact
+# Contact Me
 [LinkedIn](https://www.linkedin.com/in/tylerbittner/)
 
 
