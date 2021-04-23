@@ -1,4 +1,1 @@
-# This is a test.
-This is only a test.
-
-Here is my [portfolio](https://github.com/tylerbittner/learning/blob/master/README.md).
+# Here's my [data engineering and machine learning portfolio](https://github.com/tylerbittner/learning/blob/master/README.md).
