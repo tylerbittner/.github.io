@@ -1,5 +1,5 @@
 theme: jekyll-theme-architect
 description: Data Engineering & <br/>Machine Learning Portfolio
 title: J. Tyler Bittner
-og:image: images/tylerbittner.github.io-Social_preview.png
-custom: my_value
+image: /images/tylerbittner.github.io-Social_preview.png
+author: J. Tyler Bittner
