@@ -8,7 +8,6 @@ Brief career tour: I rocked full-stack and data-centric software engineering for
 **Ping me on [LinkedIn](https://www.linkedin.com/in/tylerbittner/) if you'd like to know more!**
 
 # Contents
-1. [Why](#why)
 1. [Data Engineering: Preparation & Cleaning](#data-engineering-preparation--cleaning)
 1. [Exploratory Data Analysis](#exploratory-data-analysis)
 1. [Data Visualization](#data-visualization)
